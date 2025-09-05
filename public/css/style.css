@@ -84,3 +84,14 @@ justify-content: center;
     background-color: red !important;
     border: none !important;
 }
+.show-img{
+    width: 100vh;
+    height: 50vh;
+    border-radius: 5%;
+}
+
+.show-btns{
+   
+    display: flex;
+    
+}
